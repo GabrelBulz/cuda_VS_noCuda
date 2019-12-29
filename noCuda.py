@@ -122,7 +122,3 @@ write_img(gray_gaussian, "gray1_gauss.png")
 
 finish = datetime.datetime.now()
 print("it took " + str(finish-start) + " for the CPU to finish the job")
-
-
-
-
